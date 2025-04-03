@@ -1,9 +1,9 @@
-# Chatbot Frontend
+# ChatBot Frontend
 
 This is the frontend of a chatbot application built using modern web technologies. It provides an interactive user interface to communicate with the chatbot.
 
 ## Live Demo
-[AI ChatBot ](https://chatbot-frontend-rho-red.vercel.app/){:target="_blank"}
+<a href="https://chatbot-frontend-rho-red.vercel.app/" target="_blank">AI ChatBot</a>
 
 ## Features
 - User-friendly interface for chatbot interaction
@@ -41,5 +41,4 @@ To run this project locally, follow these steps:
 
 ## Deployment
 The project is deployed on Vercel. 
-
 
